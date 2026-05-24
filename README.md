@@ -1,6 +1,3 @@
-# layout-bootstrap
-Layouts Responsivos (Construção de Layouts e Templates Responsivos)
-
 # 📱 Página Responsiva com Bootstrap Grid
 
 Atividade prática desenvolvida para a disciplina de **Desenvolvimento Responsivo**  
