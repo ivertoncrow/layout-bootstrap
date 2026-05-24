@@ -82,8 +82,7 @@ git clone https://github.com/ivertoncrow/layout-bootstrap.git
 
 ## 📸 Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f9e37aa-b1ab-482a-b520-f27f7ea25088" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e728bd8-7093-448d-8c1a-01b99113e5e4" />
 
 ---
 
